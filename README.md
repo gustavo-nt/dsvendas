@@ -93,4 +93,4 @@ Esse projeto está sob a licença MIT.
 
 <hr/>
 
-Feito por Gabriel Teixeira
+Feito por Gustavo Teixeira
