@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="https://github.com/gustavo-nt/dsvendas/blob/master/frontend/src/assets/img/ds_dark.svg" alt="logo" height="28"/>
+  <img src="https://github.com/gustavo-nt/dsvendas/blob/master/frontend/src/assets/img/ds-dark.svg" alt="logo" height="28"/>
 </h4>
 
 <h1 align="center">
