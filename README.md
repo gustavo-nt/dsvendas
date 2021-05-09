@@ -38,7 +38,6 @@ O DSVendas é um dashboard. Esse Projeto foi desenvolvido durante a semana do Ne
 
 ### ✅ Demonstração
 
-Em construção 
 <img src="https://github.com/gustavo-nt/dsvendas/blob/master/frontend/src/assets/img/home.png" />
 
 ### ⚙ Pré-requisitos
