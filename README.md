@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="center"> 
-🚧  Em construção  🚧
+🚧  Finalizado  🚧
 </h3>
 
 ### 📎 Features 
@@ -39,7 +39,7 @@ O DSVendas é um dashboard. Esse Projeto foi desenvolvido durante a semana do Ne
 ### ✅ Demonstração
 
 Em construção 
-<!-- <img src="https://github.com/gabriel-nt/Podcastr/blob/main/src/assets/home.png" /> -->
+<img src="https://github.com/gustavo-nt/dsvendas/blob/master/frontend/src/assets/img/home.png" />
 
 ### ⚙ Pré-requisitos
 
@@ -48,6 +48,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 * Também, precisará ter instalado o [JDK](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html) e o [Spring Boot Tools](https://spring.io/tools)
+
+* Possuir contas na [Heroku](https://www.heroku.com/) e [Netlify](https://www.netlify.com/) para deploys de Backend e Frontend, respectivamente.
 
 ### 📗 Rodando a Aplicação (web)
 
@@ -70,6 +72,9 @@ $ yarn start
 ```bash
 # Navegue até a pasta
 $ cd backend
+
+# Abre na IDE
+* Rode seu app
 ```
 
 ### 🚀 Tecnologias
@@ -79,12 +84,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React
 - Typescript
 - Spring Boot
+- Postgres
 
 ### 📕 Bibliotecas
 
 Esse projeto foi utilizou das seguintes lib:
 
 - bootstrap
+- react-router-dom
+- date-fns
+- axios
 - react-apexcharts
 
 ### 📝 Licença
